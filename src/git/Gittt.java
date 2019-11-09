@@ -12,8 +12,6 @@ public class Gittt {
         System.out.println("hey");
 
 
-       for (;;){
-           //
-       }
+      
     }
 }
