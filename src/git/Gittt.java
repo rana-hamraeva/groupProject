@@ -10,5 +10,10 @@ public class Gittt {
            System.out.println("hello word");
        }
         System.out.println("hey");
+
+
+       for (;;){
+           //
+       }
     }
 }
