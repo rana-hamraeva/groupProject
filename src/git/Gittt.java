@@ -6,5 +6,8 @@ public class Gittt {
 
            //
        }
+       for (int i= 0;i<9;i++){
+           System.out.println("hello word");
+       }
     }
 }
